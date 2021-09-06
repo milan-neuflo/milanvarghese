@@ -15,6 +15,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanvarghese&hide=Hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)](https://github.com/milanvarghese?tab=repositories)
 
-<a href="https://github.com/milanvarghese/milanvarghese">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanvarghese&show_icons=true&theme=radical)
+
