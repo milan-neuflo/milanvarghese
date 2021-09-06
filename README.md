@@ -13,6 +13,6 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanvarghese&hide=Hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)](https://github.com/milanvarghese?tab=repositories)
 ![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanvarghese&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanvarghese&hide=Hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)](https://github.com/milanvarghese?tab=repositories)
 
