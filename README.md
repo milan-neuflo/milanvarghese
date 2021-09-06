@@ -2,7 +2,7 @@
 ### I am Milan
 ### Welcome to my Github Repository
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 - 🔭 I’m currently working on ML/DL
 - 🌱 I’m currently learning ML/DL
