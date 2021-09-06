@@ -15,7 +15,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Milan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milanvarghese)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milanvarghese)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/milanvarghese/milanvarghese">
