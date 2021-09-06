@@ -9,13 +9,12 @@
 ![](https://img.shields.io/badge/Tools-Colabs-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-
-- 🔭 I’m currently working on ML/DL
-- 🌱 I’m currently learning ML/DL
+- 🌱 I’m currently learning Different AI Technologies
 
 ## &#x1f4c8; GitHub Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milanvarghese)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanvarghese)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <a href="https://github.com/milanvarghese/milanvarghese">
