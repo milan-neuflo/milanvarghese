@@ -1,5 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/milanvarghese/milanvarghese/master/wave.gif" width="30px"> 
-### I am Milan...Welcome to my Github Repository
+### Hi there! <img src="https://raw.githubusercontent.com/milanvarghese/milanvarghese/master/wave.gif" width="30px"> Welcome to my Github Repository!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
